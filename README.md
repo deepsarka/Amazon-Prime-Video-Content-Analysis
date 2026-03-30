@@ -8,7 +8,8 @@ I transitioned into data analyst after working in business development, where I 
 - SQL
 - Excel
 - Data Visualization
-- 
+
+
 ### 📌 Amazon Prime Video — Content Analysis
 An EDA project analyzing Amazon Prime Video's US content library using two datasets: `titles.csv` (9,871 records) and `credits.csv` (124,235 records).
 
